@@ -9,7 +9,7 @@ A personal security methodology for Mobile development.
 
 BBS is not a library. Not a tool you can install.  
 It's a personal security methodology — a three-phase process 
-I apply it to every Android app I build.
+I apply it to every Mobile app I build.
 
 I came up with it, not because I read about it somewhere,  
 But because something broke in production, I had to think fast.
